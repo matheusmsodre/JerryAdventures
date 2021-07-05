@@ -1,0 +1,92 @@
+body{
+    background-image: url('abertura2.jpg');
+    background-size: 100%;
+    font-family:'Great Vibes';
+   
+}
+
+.titulo{
+   
+    margin-top: -90px;
+    text-align: center;
+    font-size: 70px;
+    color:#017a8a;
+    text-shadow: black 1px 1px 1px;
+
+}
+
+#btn{
+  
+    padding: 10px 18px;
+    color:#017a8a;
+    text-align: left;
+    margin-left: 800px;
+
+}
+#btn1{
+  
+    padding: 10px 18px;
+    color:#017a8a;
+    text-align: right;
+    margin-right: 800px;
+    margin-top: -70px;
+}
+
+
+.btn-menu{
+    border-color: #017a8a;
+    border-radius: 20px 20px 20px 20px;
+    font-size: 30px;
+    background-color:#5cc3ff00 ;
+    color:#017a8a ;
+
+}
+
+.btn-menu:hover{ 
+    color:  #017a8a;
+    font-family:'Great Vibes';
+    background-color: #3098dd52;
+    border-radius: 20px 20px 20px 20px;
+    border-color: #017a8a;
+
+}
+
+
+p{
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color:black ;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    color:#03aec5;
+    font-family: 'Berkshire Swash'
+ 
+}
+
+#a{
+
+    margin-top: 20px;
+    text-align: center;
+    font-size: 22px;
+    color:#017a8a;
+    font-family: 'Berkshire Swash'
+
+}
+
+#cs{
+
+    margin-top: 60px;
+
+}
+
+.bri{
+
+text-align: center;
+
+}
+
+#br{
+    weight: 800px;
+    height: 300px;
+}
+
